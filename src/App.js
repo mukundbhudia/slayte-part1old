@@ -1,11 +1,12 @@
 import React from "react";
-import "./styles.css";
+
+import Image from "./components/Image";
 
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>Slayte</h1>
+      <Image src="https://mukund.uk/img/logo.ff91f444.png" />
     </div>
   );
 }
