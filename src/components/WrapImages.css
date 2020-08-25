@@ -1,0 +1,8 @@
+.imgRow {
+  display: flex;
+}
+
+.imgCol {
+  /* flex: 25%; */
+  padding: 5px;
+}
